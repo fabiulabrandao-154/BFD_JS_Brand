@@ -6,3 +6,5 @@ console.log(calculadora.somar(x,y));
 console.log(calculadora.subtrair(x,y));
 console.log(calculadora.multiplicar(x,y));
 console.log(calculadora.dividir(x,y)); 
+
+// é necessário implementar as fuctions dividir () e multiplicar () na biblioteca
